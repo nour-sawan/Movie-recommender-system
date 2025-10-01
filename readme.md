@@ -1,4 +1,4 @@
-🎬 Movie Recommender System
+## 🎬 Movie Recommender System
 
 This project is a content-based movie recommender system built with Python, Scikit-learn, and Streamlit.
 It recommends similar movies based on cosine similarity of user ratings.
@@ -33,6 +33,7 @@ Retrieves its vector index
 
 Returns the top 5 most similar movies with their average ratings & votes
 
+⚠️ **Note:** Some movies may not appear in search results if they received too few ratings (less than 10 users).  
 
 ## Requirements
 
