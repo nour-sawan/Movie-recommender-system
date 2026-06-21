@@ -3,7 +3,7 @@
 This project is a content-based movie recommender system built with Python, Scikit-learn, and Streamlit.
 It recommends similar movies based on cosine similarity of user ratings.
 
-## 🚀 Features
+##  Features
 
 Search for any movie from the dataset.
 
